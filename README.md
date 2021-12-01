@@ -1,0 +1,1 @@
+Solving puzzles from [Advent of Code 2021](https://adventofcode.com/2021 "That's funny!")
